@@ -9,7 +9,7 @@ Hello, I'm Gaby. Data Analyst with 5+ years of expertise in data analysis and re
 - Developing interactive business dashboards and data visualizations using Tableau and Power BI to support strategic decisions.
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase my [projects]([gabrielagismondi.github.io/](https://gabrielagismondi.github.io/)).
+Welcome to my portfolio, where I showcase my [projects](https://gabrielagismondi.github.io/).
 
 ## 🛠️ Skills
 - **Language:** SQL, Python, R
