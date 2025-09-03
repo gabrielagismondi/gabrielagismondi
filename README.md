@@ -2,7 +2,7 @@
 
 ![Banner Image](img/Portfolio-Banner.png)
 
-Hello, I'm Gaby. Data Analyst with 5+ years of expertise in data analysis and reporting, customer segmentation, profitability analysis, and strategic insights. 
+Hello, I'm Gaby. Data Analyst with 5+ years of expertise in data analytics and reporting, customer segmentation, profitability analysis, and strategic insights. 
 
 - Applying advanced statistical analysis and predictive modeling using Python and R for business insights.
 - Automating data extraction, cleansing, and transformation processes for diverse datasets.
