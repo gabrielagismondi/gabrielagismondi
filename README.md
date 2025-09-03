@@ -13,7 +13,7 @@ Welcome to my portfolio, where I showcase my [projects](https://gabrielagismondi
 
 ## 🛠️ Skills
 - **Language:** SQL, Python, R
-- **Software Tools:** Positron, Databricks, Oracle, MS Excel, MS Access, MySQL
+- **Software Tools:** RStudio, Databricks, Oracle, MS Excel, MS Access, MySQL
 - **Visualization:** Tableau, Power BI
 - **Machine Learning:** Decision Trees, Random Forest, K-Means, PCA, and more!
 - **Statistical Analysis:** Regression Analysis, Hypothesis Testing, Time Series Forecasting, Cluster Analysis
